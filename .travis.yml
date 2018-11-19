@@ -6,4 +6,4 @@ script: npm test --silent -- --reporter reporter.js
 
 notifications:
   webhooks:
-  - https://fe78366e.ngrok.io/taskbook/travis/notifications
+  - https://ab846f6b.ngrok.io/taskbook/travis/notifications
